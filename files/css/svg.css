@@ -1,0 +1,28 @@
+svg {
+	width: 100px;
+	height: 100px;
+}
+
+
+
+.col:hover {
+	background-color: lightgray;
+}
+
+.col:active {
+	background-color: lightgray;
+}
+
+
+.col.selected {
+	background-color: lightgray;
+}
+
+
+.show {
+	display: block;
+}
+
+.hide {
+	display: none;
+}
